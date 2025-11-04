@@ -21,7 +21,7 @@ Estética inspirada no estilo visual da banda
 💡 Objetivo
 
 Criar uma página informativa e estilizada como homenagem, além de praticar habilidades em desenvolvimento web e design.
-
+visite a pagina  https://marceloguedesuxuxi.github.io/tributo_Linkin_Park/
 🚀 Tecnologias utilizadas
 
 HTML
