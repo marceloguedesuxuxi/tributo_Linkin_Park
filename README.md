@@ -25,5 +25,6 @@ visite a pagina  https://marceloguedesuxuxi.github.io/tributo_Linkin_Park/
 🚀 Tecnologias utilizadas
 
 HTML
-
 CSS
+
+Projeto de curso - Udemy
